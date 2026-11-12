@@ -1,13 +1,9 @@
 
 import './App.css'
+import TestComponents from './TestComponents.jsx'
 
 function App() {
-  
-
-  return (
-    <h1 >Get Started with React 18 and Vite!
-    </h1>
-  );
+return <TestComponents />
 }
 
 export default App
